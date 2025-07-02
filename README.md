@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Guardianes Seguros Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
